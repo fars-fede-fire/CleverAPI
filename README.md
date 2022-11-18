@@ -1,6 +1,9 @@
 # CleverAPI
 API endpoints til Clever mobil app
 
+Uofficielt API til Clever mobil app
+Jeg tager ikke ansvar for funktioner
+
 Indsæt data i den medfølgende enviroment fil
 email = din email til Clever login
 secretCode = 
