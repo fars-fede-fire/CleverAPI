@@ -15,7 +15,7 @@ secretCode =
 4. Fra en computer tryk på 'Bekræft'
 5. Der åbner et link med teksten:
 > https://clever.dk/finishSignUp?secretCode=EAA....
-6. Kopier alt EFTER =-tegnet og indsæt i env filen
+6. Kopier alt EFTER =tegnet og indsæt i env filen
 
 Start med at udføre alle HTTP request i 'Authorization mappen' i rækkefølgen 'Step 1', 'Step 2', 'Step 3'
 
